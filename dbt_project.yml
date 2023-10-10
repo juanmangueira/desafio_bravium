@@ -34,4 +34,3 @@ models:
   desafio_bravium:
 
 seeds: 
-  +materialized: view
